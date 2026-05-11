@@ -1,9 +1,7 @@
 # eBay Perfume Market Analysis
 
-## Descrizione del progetto
-
+1. Descrizione del progetto
 Progetto capstone end-to-end di Data Analytics basato sulle vendite di profumi eBay, sviluppato utilizzando SQL, Python e Power BI.
-
 Il progetto include:
 - esplorazione dati,
 - pulizia e trasformazione dataset,
@@ -11,15 +9,10 @@ Il progetto include:
 - analisi statistica,
 - visualizzazione dati,
 - creazione di dashboard interattive.
-
 L’obiettivo del progetto è identificare trend di vendita, preferenze dei clienti, performance dei brand, distribuzione geografica delle vendite e comportamento dei consumatori nel mercato online dei profumi.
 
----
-
-# Business Objective
-
+2. Business Objective
 Analizzare il mercato eBay dei profumi per comprendere:
-
 - quali brand generano più vendite e revenue,
 - quali prodotti sono più popolari,
 - differenze tra profumi uomo e donna,
@@ -27,12 +20,8 @@ Analizzare il mercato eBay dei profumi per comprendere:
 - paesi con performance migliori,
 - comportamento dei clienti nei diversi segmenti di mercato.
 
----
-
-# Dataset
-
+3. Dataset
 Dataset scaricato da Kaggle contenente informazioni sulle vendite di profumi eBay.
-
 Il dataset include:
 - brand,
 - product title,
@@ -44,9 +33,7 @@ Il dataset include:
 - fascia prezzo,
 - disponibilità prodotto.
 
----
-
-# Strumenti utilizzati
+4. Strumenti utilizzati
 
 ## SQL
 Utilizzato per:
@@ -78,10 +65,8 @@ Utilizzato per:
 - storytelling business,
 - dashboard interattive.
 
----
-
-# Workflow del progetto
-
+5. Workflow del progetto
+   
 1. Download dataset da Kaggle
 2. Esplorazione dati con SQL
 3. Pulizia dati e business analysis in SQL
@@ -90,10 +75,8 @@ Utilizzato per:
 6. Creazione dashboard interattive in Power BI
 7. Storytelling e analisi finale
 
----
 
-# Dashboard Pages
-
+6. Dashboard Pages
 ## 1. Executive Overview
 Panoramica generale delle performance:
 - total revenue,
@@ -101,20 +84,17 @@ Panoramica generale delle performance:
 - top country,
 - top brands,
 - revenue by brand.
-
 ## 2. Customer Preferences & Product Trends
 Analisi comportamento clienti:
 - confronto men vs women,
 - segmenti prezzo,
 - brand preferiti,
 - trend di vendita.
-
 ## 3. Pricing & Brand Positioning
 Analisi pricing:
 - revenue per fascia prezzo,
 - premium vs mass-market,
 - distribuzione vendite per price segment.
-
 ## 4. Product Performance
 Analisi performance prodotto:
 - top products,
@@ -122,35 +102,25 @@ Analisi performance prodotto:
 - confronto uomini vs donne,
 - filtri dinamici per paese e categoria.
 
----
 
-# Findings principali
-
+7. Findings principali
 ## 1. Il mercato uomo genera più revenue
 I profumi uomo producono un volume di revenue significativamente superiore rispetto ai profumi donna.
-
 ## 2. Le fasce di prezzo medio e basso dominano il mercato
 La maggior parte delle unità vendute appartiene ai segmenti prezzo medio e basso, mentre i prodotti premium rappresentano una quota ridotta.
-
 ## 3. Calvin Klein e Versace dominano il mercato
 Questi brand mostrano performance elevate sia in termini di unità vendute che revenue totale.
-
 ## 4. Gli Stati Uniti guidano il mercato
 Gli USA rappresentano il principale paese per revenue e volume vendite.
-
 ## 5. Alcuni prodotti dominano fortemente le vendite
 Profumi come:
 - CK One,
 - Davidoff Cool Water,
 - Versace Eros,
 - Calvin Klein Escape
-
 mostrano performance nettamente superiori rispetto agli altri prodotti.
-
 ## 6. Differenze chiare tra preferenze uomo e donna
 I clienti uomo tendono ad acquistare maggiormente fragranze mass-market, mentre nel segmento donna emerge una distribuzione più equilibrata tra brand e categorie.
-
----
 
 # Competenze dimostrate
 
@@ -162,8 +132,6 @@ I clienti uomo tendono ad acquistare maggiormente fragranze mass-market, mentre 
 - Power BI dashboarding
 - Business intelligence
 - Storytelling con dati
-
----
 
 # Autore
 
