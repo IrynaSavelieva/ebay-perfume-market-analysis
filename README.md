@@ -19,7 +19,7 @@ Insight principali:
 - Gli Stati Uniti rappresentano il mercato principale per revenue.
 - Prodotti come CK One e Davidoff Cool Water mostrano performance superiori rispetto alla media.
 
-Repository Structure:
+Struttura del repository:
 - SQL → script SQL
 - Python → notebook Python
 - Power BI → dashboard e file PBIX
