@@ -1,61 +1,55 @@
 # eBay Perfume Market Analysis
 
-Data Analytics capstone project based on eBay perfume sales data from Kaggle.
+Progetto capstone di Data Analytics basato su un dataset Kaggle relativo alle vendite di profumi eBay.
 
-Tools used:
+Il progetto è stato sviluppato utilizzando:
 - SQL
 - Python
 - Power BI
-- Power Query
 
-Project focus:
-- sales analysis
-- customer preferences
-- pricing trends
-- product performance
-- brand positioning
+ Obiettivo del progetto :
+Analizzare il mercato online dei profumi per identificare:
+- brand più performanti,
+- prodotti più venduti,
+- differenze tra segmento uomo e donna,
+- trend di vendita,
+- distribuzione geografica delle revenue,
+- comportamento dei clienti nei diversi segmenti prezzo.
 
----
+Analisi svolte:
+SQL:
+- esplorazione dati,
+- data cleaning,
+- business queries,
+- KPI analysis.
+Python:
+- EDA,
+- analisi statistiche,
+- correlazioni,
+- gestione outliers,
+- visualizzazioni dati.
+Power BI:
+Dashboard interattive focalizzate su:
+- Executive Overview
+- Customer Preferences
+- Pricing & Brand Positioning
+- Product Performance
 
-## Dashboard Preview
+Insight principali:
+- Il segmento uomo genera revenue superiori rispetto al segmento donna.
+- Calvin Klein e Versace risultano tra i brand più performanti.
+- I prodotti di fascia media dominano il volume vendite.
+- Gli Stati Uniti rappresentano il mercato principale per revenue.
+- Prodotti come CK One e Davidoff Cool Water mostrano performance superiori rispetto alla media.
 
-### Executive Overview
-![Executive Overview](Dashboard%20Screenshots/Executive_Overview(1st_page).png)
+Repository Structure:
+- SQL → script SQL
+- Python → notebook Python
+- Power BI → dashboard e file PBIX
+- Dashboard Screenshots → immagini dashboard
+- Perfume E-Commerce raw → dataset originale
+- Perfume E-Commerce clean → dataset pulito
 
-### Pricing & Brand Positioning
-![Pricing](Dashboard%20Screenshots/Business_Insight(_2nd_page).png)
+ 
 
 
-### Customer Preferences & Product Trends
-![Customer Preferences](Dashboard%20Screenshots/Customer_Insights(3rd_page).png)
-
-
-### Product Performance
-![Product Performance](Dashboard%20Screenshots/Product_Insight(final_4th_page).png)
-
----
-
-## Key Insights
-
-- Men fragrances generated higher revenue than women fragrances.
-- Calvin Klein and Versace dominate multiple market segments.
-- Mid-price perfumes generate the highest sales volume.
-- United States is the strongest market by revenue.
-- Products like CK One and Davidoff Cool Water significantly outperform the average.
-
----
-
-## Repository Structure
-
-data_raw → original Kaggle dataset  
-data_cleaned → cleaned dataset  
-sql → SQL exploration and business queries  
-python → statistical analysis and EDA  
-powerbi_dashboard → Power BI project files  
-dashboard_screenshots → dashboard previews  
-
----
-
-## Author
-
-Iryna Savelieva
