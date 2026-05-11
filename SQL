@@ -1,1 +1,0 @@
-Script SQL per esplorazione dati, pulizia e analisi business
