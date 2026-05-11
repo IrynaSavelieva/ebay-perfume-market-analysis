@@ -1,2 +1,2 @@
 # ebay-perfume-market-analysis
-End-to-end Data Analyst capstone project on eBay perfume sales using SQL, Python and Power BI.
+Progetto capstone end-to-end di Data Analytics basato sulle vendite di profumi eBay, sviluppato utilizzando SQL, Python e Power BI. Il progetto include esplorazione dati, pulizia, analisi business, analisi statistica e creazione di dashboard interattive per identificare trend di vendita, brand più performanti, preferenze dei clienti, distribuzione geografica delle vendite e prodotti più richiesti nel mercato dei profumi online.
